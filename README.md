@@ -48,7 +48,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/sushil-gurung-a5a06481/
 [webdevplaylist]:https://sushilgurung.com.np
 [jsplaylist]: https://sushilgurung.com.np
 [cssplaylist]:https://sushilgurung.com.np
