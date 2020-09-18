@@ -44,7 +44,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sushilgurung&show_icons=true&hide_border=true" />
 
-[website]: https://sushilgurung.com.np
+[website]: http://sushilgurung.com.np
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
